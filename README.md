@@ -97,10 +97,9 @@
 
 ## 算法简介
 
-<center class="half">
-    <img alt="Qries" src="./imgs/Training.png" width="300">
-    <img alt="Qries" src="./imgs/Sampling.png" width="300">
-</center>
+训练|采样
+-|-
+![](./imgs/Training.png)|![](./imgs/Sampling.png)
 
 ## 核心代码1：Diffusion 类，训练代码
 
